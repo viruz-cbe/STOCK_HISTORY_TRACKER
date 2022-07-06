@@ -1,3 +1,4 @@
+# PYHTON STOCK HISTORY TACKER
 This python program uses
     -PYTHON_DATAREADER for collecting data from yahoo finance
     -And it also use MATPLOTLIB for ploting the graph /visualzing the data
